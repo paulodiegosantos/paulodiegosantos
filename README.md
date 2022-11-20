@@ -6,9 +6,9 @@ Aluno do 4° ano com status de formando no Instituto Federal de Alagoas (IFAL) e
 
 ## Interesses.
 ![Imagem ilustrado de HTML5, CSS e JavaScript](Imagens/html5_css_javascript.jpeg)
-Estou interessado em **HTML5, CSS e JavaScript**. Você pode encontrar alguns projetos meus a baixo.
+Estou interessado em **Desenvolvimento Web (HTML5, CSS e JavaScript)** com foco em confeccção de sites. Você pode encontrar alguns projetos meus a baixo.
 |Projetos|
-|-----------------------------------------------------------------------------|
+|-|
 |[![Imagem ilustrado de HTML5, CSS e JavaScript](Imagens/universidade_unes.png)](https://www.google.com.br/)|
 
 - 🌱 Eu estou aprendendo **Desenvolvimento Web (HTML5, CSS e JavaScript) e manuseuio de banco de dados (SQL)**.
