@@ -1,8 +1,8 @@
-- 👋 Olá, Eu sou **@paulodslima**
-- 👀 Estou interessado em **Aprender java e consolidar meus fundamentos na área de programação, estou fazendo isso nesse momento...**
-- 🌱 Eu estou aprendendo **Java e consolidando minhas bases reestudando algoritmos computacionais**...
-- 💞️ Estou procurando um estágio para por minhas habilidades em uso de forma prática...
-- 📫 Você pode entrar em contato comigo mandando um email para **paulodslima@outlook.com**...
+- 👋 Olá, Eu sou **[Paulo Diego](https://exemplo.com/)**, aluno do 4° ano com status de formando no Instituto Federal de Alagoas (IFAL) e atualmente trabalho como Suporte Técnico na empresa de automação comercial [OG1 SYSTEMS](https://www.og1.inf.br/).
+- 👀 Estou interessado em **HTML5, CSS e JavaScript**.
+- 🌱 Eu estou aprendendo **Desenvolvimento Web (HTML5, CSS e JavaScript) e manuseuio de banco de dados (SQL)**.
+- 💞️ Estou procurando um trabalho como programador web.
+- 📫 Você pode entrar em contato comigo mandando um email para **paulodslima@outlook.com**.
 
 <!---
 paulodslima/paulodslima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
