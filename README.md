@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou **[Paulo Diego](https://exemplo.com/)**, aluno do 4° ano com status de formando no Instituto Federal de Alagoas (IFAL) e atualmente trabalho como Suporte Técnico na empresa de automação comercial [OG1 SYSTEMS](https://www.og1.inf.br/).
+- 👋 Olá, Eu sou **[Paulo Diego](https://github.com/paulodslima)**, aluno do 4° ano com status de formando no Instituto Federal de Alagoas (IFAL) e atualmente trabalho como Suporte Técnico na empresa de automação comercial [OG1 SYSTEMS](https://www.og1.inf.br/).
 - 👀 Estou interessado em **HTML5, CSS e JavaScript**.
 - 🌱 Eu estou aprendendo **Desenvolvimento Web (HTML5, CSS e JavaScript) e manuseuio de banco de dados (SQL)**.
 - 💞️ Estou procurando um trabalho como programador web.
