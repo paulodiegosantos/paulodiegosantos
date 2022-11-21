@@ -12,7 +12,7 @@ Estou interessado em **Desenvolvimento Web (HTML5, CSS e JavaScript)** com foco 
 |[![projeto universidade unes](Imagens/universidade_unes.png)](https://paulodslima.github.io/sites/universidade_unes/index.html)|
 
 ## Minhas informações.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulodslima&show_icons=true&theme=dark)
 - 📫 Você pode entrar em contato comigo mandando um email para **paulodslima@outlook.com**.
 
 <!---
