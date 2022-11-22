@@ -33,10 +33,9 @@ Estou interessado em **Desenvolvimento Web (HTML5, CSS e JavaScript)** com foco 
       <img width="25" src="Imagens/instagram.png">
     </a>
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulodslima&show_icons=true&theme=dark)
-- 📫 Você pode entrar em contato comigo mandando um email para **paulodslima@outlook.com**.
-
+<div  align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulodslima&show_icons=true&theme=dark)
+</div>
 <!---
 paulodslima/paulodslima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
