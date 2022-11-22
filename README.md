@@ -35,9 +35,7 @@ Estou interessado em **Desenvolvimento Web (HTML5, CSS e JavaScript)** com foco 
 </div>
 
 ##
-<center>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulodslima&show_icons=true&theme=dark)
-</center>
+<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulodslima&show_icons=true&theme=dark)</center>
 
 <!---
 paulodslima/paulodslima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
