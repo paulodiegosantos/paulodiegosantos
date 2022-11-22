@@ -24,13 +24,13 @@ Estou interessado em **Desenvolvimento Web (HTML5, CSS e JavaScript)** com foco 
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: paulodslima@outlook.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="Imagens/gmail.svg">
     </a>
     <a href = "">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="Imagens/linkedin.svg">
     </a>
     <a href = "">
-      <img width="25" src="instagram.png">
+      <img width="25" src="Imagens/instagram.png">
     </a>
 </div>
 
