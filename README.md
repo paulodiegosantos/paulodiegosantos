@@ -26,7 +26,7 @@ Estou interessado em **Desenvolvimento Web (HTML5, CSS e JavaScript)** com foco 
     <a href = "mailto: paulodslima@outlook.com">
       <img width="30" src="Imagens/gmail.svg">
     </a>
-    <a href = "">
+    <a href = "https://www.linkedin.com/in/paulodiego/">
       <img width="25" src="Imagens/linkedin.svg">
     </a>
     <a href = "">
