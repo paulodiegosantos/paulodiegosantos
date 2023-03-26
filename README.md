@@ -2,7 +2,7 @@
 
 ## Quem eu sou?
 ![Imagem ilustrado do IFAL](Imagens/ifal_aquarela.jpeg)
-Aluno do 4° ano com status de formando no Instituto Federal de Alagoas (IFAL) no **curso de informática para internet integrado** e atualmente trabalhando como Suporte Técnico na empresa de automação comercial [OG1 SYSTEMS](https://www.og1.inf.br/).
+Formando do Instituto Federal de Alagoas (IFAL) no **curso de informática para internet integrado** e atualmente trabalhando como Suporte Técnico na empresa de automação comercial [OG1 SYSTEMS](https://www.og1.inf.br/).
 
 ## Interesses.
 ![Imagem ilustrado de HTML5, CSS e JavaScript](Imagens/html5_css_javascript.jpeg)
