@@ -1,4 +1,4 @@
-# Olá, Eu sou [Paulo Diego](https://github.com/paulodslima).
+# Olá, Eu sou [Paulo D. S. Lima](https://github.com/paulodslima).
 
 ## Quem eu sou?
 ![Imagem ilustrado do IFAL](Imagens/ifal_aquarela.jpeg)
@@ -9,15 +9,9 @@ Formando do Instituto Federal de Alagoas (IFAL) no **curso de informática para 
 Estou interessado em **Desenvolvimento Web (HTML5, CSS e JavaScript)** com foco em confecção de sites. Você pode encontrar alguns projetos meus a baixo.
 |Projetos|
 |-|
-<<<<<<< HEAD
 |[![Projeto Finans](Imagens/finans.jpg)](https://paulodslima.github.io/sites/finans/index.html)|
 |[![Projeto Portfólio ](Imagens/portfolio.jpg)](https://paulodslima.github.io/sites/Portfolio/index.html)|
 |[![Projeto Tecblog](Imagens/tecblog.jpg)](https://paulodslima.github.io/sites/tecblog/index.html)|
-=======
-|[![Projeto Finans](Imagens/universidade_unes.png)](https://paulodslima.github.io/sites/universidade_unes/index.html)|
-|[![Projeto Portfólio](Imagens/universidade_unes.png)](https://paulodslima.github.io/sites/universidade_unes/index.html)|
-|[![Projeto Tecblog](Imagens/universidade_unes.png)](https://paulodslima.github.io/sites/universidade_unes/index.html)|
->>>>>>> 888d4d98ab55c917eabf8176e7bae9808c45ce80
 
 ## Minhas informações.
 <div  align="center"> 
