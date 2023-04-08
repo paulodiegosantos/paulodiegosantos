@@ -9,7 +9,9 @@ Formando do Instituto Federal de Alagoas (IFAL) no **curso de informática para 
 Estou interessado em **Desenvolvimento Web (HTML5, CSS e JavaScript)** com foco em confecção de sites. Você pode encontrar alguns projetos meus a baixo.
 |Projetos|
 |-|
-|[![projeto universidade unes](Imagens/universidade_unes.png)](https://paulodslima.github.io/sites/universidade_unes/index.html)|
+|[![Projeto Finans](Imagens/universidade_unes.png)](https://paulodslima.github.io/sites/universidade_unes/index.html)|
+|[![Projeto Portfólio](Imagens/universidade_unes.png)](https://paulodslima.github.io/sites/universidade_unes/index.html)|
+|[![Projeto Tecblog](Imagens/universidade_unes.png)](https://paulodslima.github.io/sites/universidade_unes/index.html)|
 
 ## Minhas informações.
 <div  align="center"> 
