@@ -1,4 +1,4 @@
-# Olá, Eu sou [Paulo D. S. Lima](https://github.com/paulodslima).
+# Olá, Eu sou [Paulo Diego Dos Santos](https://github.com/paulodslima).
 
 ## Quem eu sou?
 ![Imagem ilustrado do IFAL](Imagens/ifal_aquarela.jpeg)
