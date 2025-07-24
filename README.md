@@ -1,42 +1,54 @@
-# Olá, Eu sou [Paulo Diego Dos Santos](https://github.com/paulodslima).
+# 👋 Olá, eu sou Paulo Diego dos Santos
 
-## Quem eu sou?
-![Imagem ilustrado do IFAL](Imagens/ifal_aquarela.jpeg)
-Formando do Instituto Federal de Alagoas (IFAL) no **curso de informática para internet integrado** e atualmente trabalhando como Suporte Técnico na empresa de automação comercial [OG1 SYSTEMS](https://www.og1.inf.br/).
+## 🚀 Sobre Mim
+🎓 Sou técnico em Informática para Internet, formado pelo Instituto Federal de Alagoas (IFAL), e atualmente curso Análise e Desenvolvimento de Sistemas.
 
-## Interesses.
-![Imagem ilustrado de HTML5, CSS e JavaScript](Imagens/html5_css_javascript.jpeg)
-Estou interessado em **Desenvolvimento Web (HTML5, CSS e JavaScript)** com foco em confecção de sites. Você pode encontrar alguns projetos meus a baixo.
-|Projetos|
-|-|
-|[![Projeto Finans](Imagens/finans.jpg)](https://paulodslima.github.io/sites/finans/index.html)|
-|[![Projeto Portfólio ](Imagens/portfolio.jpg)](https://paulodslima.github.io/sites/Portfolio/index.html)|
-|[![Projeto Tecblog](Imagens/tecblog.jpg)](https://paulodslima.github.io/sites/tecblog/index.html)|
+💻 Participante do Oracle Next Education (ONE), com foco em Back-End Java, buscando minha primeira oportunidade como Desenvolvedor de Software.
 
-## Minhas informações.
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="Imagens/code.gif">
-    <h1 align="center">Tecnologias Usadas</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: paulodslima@outlook.com">
-      <img width="30" src="Imagens/gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/paulodiego/">
-      <img width="25" src="Imagens/linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/paulo.d.s.lima/">
-      <img width="25" src="Imagens/instagram.png">
-    </a>
-</div>
+🛠️ Tenho experiência prática com Java, JavaScript, Node.js, React, HTML5, CSS3, Bootstrap, SQL, PHP e Python, além de bancos de dados como SQL Server e PostgreSQL.
+
+📌 Certificado em Scrum, com vivência em metodologias ágeis, testes manuais, levantamento de requisitos e suporte técnico.
+
+💡 Atualmente, estou desenvolvendo projetos próprios para consolidar meus conhecimentos e demonstrar minha evolução prática na área de tecnologia.
+
+🌐 Inglês nível iniciante, em constante aprimoramento.
+
+---
+
+## 🔍 Interesses
+
+Atualmente focado em me tornar **Desenvolvedor Back-End Java Júnior**, mas também com experiência prática em **Front-End**.
+
+💡 Tecnologias:  
+- **Back-End:** Java, Spring Boot (em aprendizado), SQL, PostgreSQL, SQL Server
+- **Front-End:** HTML5, CSS3, JavaScript, Node.js, React, Bootstrap
+- **Outros:** PHP, Python, Scrum, Git, GitHub
+
+---
+
+## 📂 Projetos
+
+Aqui estão alguns dos meus projetos pessoais:
+
+| Projetos |
+| - |
+| [![Projeto Finans](Imagens/finans.jpg)](https://paulodslima.github.io/sites/finans/index.html) |
+| [![Projeto Portfólio](Imagens/portfolio.jpg)](https://paulodslima.github.io/sites/Portfolio/index.html) |
+| [![Projeto Tecblog](Imagens/tecblog.jpg)](https://paulodslima.github.io/sites/tecblog/index.html) |
+
+> Em breve: novos projetos em Java e Spring Boot 🚀
+
+---
+
+## 🌐 Contato
+
+📧 [paulodslima@outlook.com](mailto:paulodslima@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/paulodiego/)  
+
+💬 **Fique à vontade para entrar em contato ou me chamar para conversar sobre tecnologia!**
+
+---
 
 <!---
 paulodslima/paulodslima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
