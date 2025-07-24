@@ -43,7 +43,7 @@ Aqui estão alguns dos meus projetos pessoais:
 ## 🌐 Contato
 
 📧 [paulodslima@outlook.com](mailto:paulodslima@outlook.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/paulodiego/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/paulodiegosantos/)  
 
 💬 **Fique à vontade para entrar em contato ou me chamar para conversar sobre tecnologia!**
 
